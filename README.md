@@ -1,1 +1,1 @@
-to be filled later
+The current project is to have a simple cooking website with 3 recipes, and with its completion, I will have demonstrated an understanding of simple webpage creation, and also creating and updating a Github repository.

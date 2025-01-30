@@ -32,13 +32,14 @@ p {
     background-color: #f1bc31;
     border: 2px solid #e25822;
     height: 5vh;
-    width: 15vh;
+    width: 15vw;
     padding-top: 2vh;
 }
 
 .a-recipe {
-    color: #e25822;
+    color: #b22222;
     border-style: none;
+    text-decoration: none;
 }
 
 .recipe-li:hover, .recipe-li:hover a{
@@ -49,12 +50,14 @@ p {
 .gohome {
     display: inline-block;
     background-color: #f1bc31;
+    color: #b22222;
     border: 2px solid #e25822;
     height: 5vh;
     width: 15vh;
     padding-top: 2vh;
     text-align: center;
     margin-bottom: 1vh;
+    text-decoration: none;
 }
 
 .gohome:hover {
